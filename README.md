@@ -1,5 +1,8 @@
 # Fraud Guard 🛡️ 
 
+## Credit Card fraud detection
+A project focused on detecting fraudulent credit card transactions using machine learning. It includes data preprocessing, feature engineering, model training, and evaluation with algorithms like logistic regression and random forests, aiming to improve accuracy and mitigate risks in financial systems.
+
 ## Overview
 Fraud Guard is an advanced fraud detection platform built with R Shiny that uses machine learning to identify and prevent fraudulent transactions in real-time. The application features a modern, responsive UI with interactive visualizations and secure authentication.
 
@@ -125,7 +128,8 @@ Contributions are welcome! Please follow these steps:
 - **Project Lead**: Azad Shukla
 - **UI Developer**: Aditya Alok
   - R Shiny UI/UX design and implementation
-  - GitHub: [Aditya Alok](https://github.com/adityaalok)
+  - Power BI dashboard
+  - GitHub: [Aditya Alok](https://github.com/Adityaalok4)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -140,6 +144,6 @@ For support:
 
 ## Acknowledgments
 Special thanks to:
-- Aditya Alok for UI/UX implementation
+- Aditya Alok for UI/UX implementation and Visualizing Power BI dashboard
 - The R Shiny community
 - All contributors and testers
